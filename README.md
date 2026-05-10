@@ -18,7 +18,7 @@ These are the following steps I took to achieve this:
 - After this, the visualtion process began, I made 3 dashboards - customer overview, product analysis and sales analysis to address the challenge of the company
 
 # DATA MODELLING
-
+![modelling](https://github.com/Temperance-Godwin/Adventurous-Work-Analysis/blob/main/Data%20Modelling.jpg)
 
 # DASHBOARD
 
