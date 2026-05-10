@@ -20,7 +20,7 @@ These are the following steps I took to achieve this:
 # DATA MODELLING
 ![modelling](https://github.com/Temperance-Godwin/Adventurous-Work-Analysis/blob/main/Data%20Modelling.jpg)
 
-# DASHBOARD & INSIGHTS
+# DASHBOARDS & INSIGHTS
 ### CUSTOMER OVERVIEW
 ![customer](https://github.com/Temperance-Godwin/Adventurous-Work-Analysis/blob/main/Customers%20Overview.png)
 - Total customers increased significantly with a 315.5% growth, indicating succesful customer acquisition strategies.
@@ -45,6 +45,11 @@ These are the following steps I took to achieve this:
 -  The top revenue-generating subcategories include touring bikes, road bikes and tires and tubes.
 -  Tires and tubes recordd the highest returns. Bottles and cages also experiences substantial returns.
 
-# RECOMMENDATION
+# RECOMMENDATIONS
+- Since customer acquisition has grown rapidly, the company should focus on loyalty programs, personalized recommendations, customer engagement campaigns and membership benefits
+- Investigate the July sales decline by analyzing seasonal pattenrs, inventory shortages, customer purchasing behaviour and marketing campaign gaps.
+- Increase marketing and inventory investmens in United State and Austrailia. These markets show strong sales potential and customer demand.
+- Focus on subcategories with high return rate by improving quality control, enhancing product descriptions, gathering customer feedback on returned items and reviewing shipping and packageing processes.
+- Continue expanding high-performing categories like Accessories and bikes and reassess low-performing categories (clothing) to determing whether improvement or discontinuation are needed.
 
 # CONCLUSION
