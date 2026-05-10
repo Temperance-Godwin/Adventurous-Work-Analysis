@@ -56,4 +56,4 @@ To interact with the dashboard, [click here](https://app.powerbi.com/view?r=eyJr
 
 # CONCLUSION
 In conclusion, this analysis reveals strong business growth, increasing profitability and expanding market reach. However, rising return rates and seasonal performace drops highlight operational areas requiring attention.
-By leveraging these insights and implenting the recommendations, the company can impove operational efficiency, increase customer satsifcation and drive sustainable long-term growth
+By leveraging these insights and implenting the recommendations, the company can impove operational efficiency, increase customer satsifcation and drive sustainable long-term growth.
