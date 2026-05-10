@@ -20,9 +20,16 @@ These are the following steps I took to achieve this:
 # DATA MODELLING
 ![modelling](https://github.com/Temperance-Godwin/Adventurous-Work-Analysis/blob/main/Data%20Modelling.jpg)
 
-# DASHBOARD
+# DASHBOARD & INSIGHTS
+### CUSTOMER OVERVIEW
+![customer](https://github.com/Temperance-Godwin/Adventurous-Work-Analysis/blob/main/Customers%20Overview.png)
 
-# INSIGHTS
+### PRODUCT ANALYSIS
+![product](
+
+### SALES ANALYSIS
+![sales](
+
 
 # RECOMMENDATION
 
