@@ -11,8 +11,14 @@ The primary objectives of this project are:
 - To support strategic business decisions
 
 # METHODOLOGY
+These are the following steps I took to achieve this:
+- Datasets were imported into power query and the data cleaning processes began - cleaning involved replacing values, merging and appending queries, changing data types and deleting unwanted column
+- After data transformation, I had to ensure the data was rightly modelled for analysis
+- For the main analysis, I made use of DAX measures and calculated columns, i worked with the following functions - SUM, RELATED, COUNT, VAR, SAMEPERIODLASTYEAR, CALCULATE
+- After this, the visualtion process began, I made 3 dashboards - customer overview, product analysis and sales analysis to address the challenge of the company
 
 # DATA MODELLING
+
 
 # DASHBOARD
 
