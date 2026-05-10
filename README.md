@@ -25,10 +25,10 @@ These are the following steps I took to achieve this:
 ![customer](https://github.com/Temperance-Godwin/Adventurous-Work-Analysis/blob/main/Customers%20Overview.png)
 
 ### PRODUCT ANALYSIS
-![product](
+![product](https://github.com/Temperance-Godwin/Adventurous-Work-Analysis/blob/main/Product%20Analysos.png)
 
 ### SALES ANALYSIS
-![sales](
+![sales](https://github.com/Temperance-Godwin/Adventurous-Work-Analysis/blob/main/Sales%20Analysis.png)
 
 
 # RECOMMENDATION
