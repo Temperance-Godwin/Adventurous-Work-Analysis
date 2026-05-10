@@ -45,6 +45,8 @@ These are the following steps I took to achieve this:
 -  The top revenue-generating subcategories include touring bikes, road bikes and tires and tubes.
 -  Tires and tubes recordd the highest returns. Bottles and cages also experiences substantial returns.
 
+To interact with the dashboard, [click here](https://app.powerbi.com/view?r=eyJrIjoiZWIzMTZlNmUtZWQ3OS00Yjg0LTkzM2ItMDM3Mjg2MWY4N2ZhIiwidCI6Ijg0ZGZiOGY5LWYzMTItNDk1NC05ZTk5LWYzZjcxMTgzZDZmMSJ9)
+
 # RECOMMENDATIONS
 - Since customer acquisition has grown rapidly, the company should focus on loyalty programs, personalized recommendations, customer engagement campaigns and membership benefits
 - Investigate the July sales decline by analyzing seasonal pattenrs, inventory shortages, customer purchasing behaviour and marketing campaign gaps.
