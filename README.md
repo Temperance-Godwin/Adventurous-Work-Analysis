@@ -23,6 +23,11 @@ These are the following steps I took to achieve this:
 # DASHBOARD & INSIGHTS
 ### CUSTOMER OVERVIEW
 ![customer](https://github.com/Temperance-Godwin/Adventurous-Work-Analysis/blob/main/Customers%20Overview.png)
+- Total customers increased significantly with a 315.5% growth, indicating succesful customer acquisition strategies.
+- The largest customer age group is 40 - 59 years, contributing nearly half of the customer base.
+- Customer distribution between gender is nearly equal with male having 50.29% and female having 49%
+- Most customers are undergraduates(56.35%), suggesting the brand strongly appeals to moderately educated working professionals
+- High-income customers represent a smaller segment, indicated untapped premium market opportunities
 
 ### PRODUCT ANALYSIS
 ![product](https://github.com/Temperance-Godwin/Adventurous-Work-Analysis/blob/main/Product%20Analysos.png)
